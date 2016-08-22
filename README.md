@@ -15,26 +15,78 @@ Integrantes:
 10-Jaime
 11-Ariel
 12-Harry
+13-Oscar
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Nombre</th>
+    <th>Equipo</th>
+    <th>Rol</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>Julian</td>
+    <td>1</td>
+    <td>sin definir</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Moises</td>
+    <td>1</td>
+    <td>sin definir</td>
   </tr>
   <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>Danick</td>
+    <td>1</td>
+    <td>sin definir</td>
   </tr>
+  <tr>
+    <td>Eloy</td>
+    <td>1</td>
+    <td>sin definir</td>
+  </tr>
+  <tr>
+    <td>Diego</td>
+    <td>1</td>
+    <td>sin definir</td>
+  </tr>
+  <tr>
+    <td>Silvana</td>
+    <td>1</td>
+    <td>sin definir</td>
+  </tr>
+  <tr>
+    <td>Lenner</td>
+    <td>1</td>
+    <td>sin definir</td>
+  </tr>
+  <tr>
+    <td>Alvin</td>
+    <td>1</td>
+    <td>sin definir</td>
+  </tr>
+  <tr>
+    <td>Ricardo</td>
+    <td>1</td>
+    <td>sin definir</td>
+  </tr>
+  <tr>
+    <td>Jaime</td>
+    <td>1</td>
+    <td>sin definir</td>
+  </tr>
+  <tr>
+    <td>Ariel</td>
+    <td>1</td>
+    <td>sin definir</td>
+  </tr>
+  <tr>
+    <td>Harry</td>
+    <td>1</td>
+    <td>sin definir</td>
+  </tr>
+  <tr>
+    <td>Oscar</td>
+    <td>1</td>
+    <td>sin definir</td>
+  </tr>
+  
 </table>
